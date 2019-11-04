@@ -14,3 +14,11 @@
 #left-eye {
   animation: glancing 3s infinite forwards;
 }
+
+#right-eye {
+  animation: glancing 3s infinite forwards;
+}
+
+@keyframes glancing {
+
+}
