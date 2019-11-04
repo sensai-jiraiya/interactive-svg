@@ -12,5 +12,5 @@
 }
 
 #left-eye {
-  animation: glancing 3s infinite forward;
+  animation: glancing 3s infinite forwards;
 }
