@@ -26,11 +26,11 @@
   }
 
   50% {
-    transform: translateX(-8px);
+    transform: translateX(-5px);
   }
 
   100% {
-    transform: translateX(8px);
+    transform: translateX(5px);
   }
 
 }
